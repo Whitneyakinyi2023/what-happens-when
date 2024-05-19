@@ -224,6 +224,12 @@ DNS lookup
 * If the DNS server is on a different subnet, the network library follows
   the ``ARP process`` below for the default gateway IP.
 
+Benefits of DNS 
+---------------
+* Increased accessibility: Makes it easier for people to remember and type domain names compared to long, complex IP addresses.
+* Scalability: The DNS system can handle a massive number of requests without overloading.
+* Security: DNS records can be used to block malicious content and control access to resources.
+
 
 ARP process
 -----------
